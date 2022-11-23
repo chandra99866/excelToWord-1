@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+\\Mcitlptp255\d\java\PSS_PROJECTS\.metadata\.plugins\org.eclipse.jdt.core
+900468248.index
+2575582456.index
+2202798665.index
+752245471.index
+2623804562.index
+1756268549.index
+2545728915.index
+768465816.index
+1594535401.index
+588799773.index
+100113713.index
+3379728929.index
+3725417372.index
+3388496945.index

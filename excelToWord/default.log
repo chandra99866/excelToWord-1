@@ -1,0 +1,1144 @@
+Aug 22, 2022 1:22:51 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs
+Aug 22, 2022 1:22:51 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO: status : false
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************Started of New File*****************************************************
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+INFO: File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************************************************************************************
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Product OR Molecule patent
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion\Product_OR_Molecule_patent
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 1,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 2,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 4,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 5,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 6,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 7,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 8,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 10,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 11,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 12,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 13,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 14,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 15,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 16,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 17,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 18,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 19,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 20,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:52 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Orange book
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion\Orange_book
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 1,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 2,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 3,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 4,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 5,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 6,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 7,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 8,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 9,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 11,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 12,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 13,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 14,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 15,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 16,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 17,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 18,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 19,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 20,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 21,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Compound 
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion\Compound_
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Compound ,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Compound ,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Method of use or treatment 
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion\Method_of_use_or_treatment_
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Method of use or treatment ,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Method of use or treatment ,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Miscellaneous Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion\Miscellaneous_Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Miscellaneous Patents,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Miscellaneous Patents,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Miscellaneous Patents,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Miscellaneous Patents,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************Started of New File*****************************************************
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************************************************************************************
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Relevant - Formulation Patents\Formulation_Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:53 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 1:22:54 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO:  This file cannot be processed only xlsx file are allowed : desktop.ini
+Aug 22, 2022 1:22:54 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO:  This file cannot be processed only xlsx file are allowed : first_keypair.pem
+Aug 22, 2022 1:22:54 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO:  This file cannot be processed only xlsx file are allowed : outDocs
+Aug 22, 2022 1:22:54 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO:  This file cannot be processed only xlsx file are allowed : outDocs.zip
+Aug 22, 2022 6:51:04 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs
+Aug 22, 2022 6:51:04 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO: status : false
+Aug 22, 2022 6:51:04 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO:  This file cannot be processed only xlsx file are allowed : apache-tomcat-8.5.82.tar.gz
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************Started of New File*****************************************************
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+INFO: File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************************************************************************************
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Product OR Molecule patent
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion\Product_OR_Molecule_patent
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:07 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 1,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 2,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 4,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 5,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 6,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 7,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 8,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 9,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 11,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 12,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 13,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 14,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 15,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 16,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 17,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 18,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 19,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 20,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 21,sheet: Product OR Molecule patent,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:09 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Orange book
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion\Orange_book
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 1,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 2,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 3,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 4,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 5,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 6,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 7,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 8,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 9,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 11,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 12,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 13,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 14,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 15,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 16,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 17,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 18,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 19,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 20,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 21,sheet: Orange book,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Compound 
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion\Compound_
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Compound ,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Compound ,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Method of use or treatment 
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion\Method_of_use_or_treatment_
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Method of use or treatment ,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:10 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Method of use or treatment ,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Miscellaneous Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Landscape study - for word conversion\Miscellaneous_Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Miscellaneous Patents,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Miscellaneous Patents,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Miscellaneous Patents,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Miscellaneous Patents,File name : Cyclophosphamide - Landscape study - for word conversion
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************Started of New File*****************************************************
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************************************************************************************
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\outDocs\Cyclophosphamide - Relevant - Formulation Patents\Formulation_Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+INFO: Status false
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Formulation Patents,File name : Cyclophosphamide - Relevant - Formulation Patents
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO:  This file cannot be processed only xlsx file are allowed : desktop.ini
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO:  This file cannot be processed only xlsx file are allowed : first_keypair.pem
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO:  This file cannot be processed only xlsx file are allowed : outDocs
+Aug 22, 2022 6:51:11 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO:  This file cannot be processed only xlsx file are allowed : outDocs.zip
+Nov 23, 2022 1:52:20 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\Pergolide Excel Relevant formulationa and treatment files for word conversion\outDocs
+Nov 23, 2022 1:52:20 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO: status : true
+Nov 23, 2022 1:52:20 PM readingExcel.ReadingExcel getAllExcelsPath
+INFO:  This file cannot be processed only xlsx file are allowed : outDocs
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************Started of New File*****************************************************
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+INFO: File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************************************************************************************
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\Pergolide Excel Relevant formulationa and treatment files for word conversion\outDocs\Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+INFO: Status true
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Formulation Patents
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\Pergolide Excel Relevant formulationa and treatment files for word conversion\outDocs\Pergolide - Formulation Relevant patents for word conversion\Formulation_Patents
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+INFO: Status true
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:22 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 1,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 2,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 3,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 4,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 5,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 6,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 7,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 8,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 9,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 10,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 11,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 12,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 13,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 14,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 15,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 16,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 17,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 18,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 19,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 20,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 21,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 1,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 2,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 3,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 4,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 5,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 6,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 7,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 8,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 9,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 10,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 11,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 12,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 13,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 14,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 15,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 16,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 17,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 18,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 19,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 20,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 21,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 1,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 2,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 3,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 4,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 5,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 6,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 7,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 8,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 9,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 10,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 11,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 12,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 13,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 14,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 15,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 16,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 17,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 18,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 19,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 20,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 21,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 1,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 2,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 3,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 4,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 5,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 6,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 7,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 8,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 9,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 10,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 11,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 12,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 13,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 14,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 15,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 16,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 17,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 18,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 19,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 20,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 21,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 1,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 2,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 3,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 4,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 5,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 6,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 7,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 8,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 9,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 10,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 11,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 12,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 13,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 14,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 15,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 16,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 17,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 18,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 19,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 20,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 21,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 1,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 2,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 3,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 4,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 5,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 6,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 7,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 8,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 9,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 11,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 12,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 13,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 14,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 15,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 16,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 17,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 18,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 19,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 20,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: ==============>Error At cell 21,sheet: Formulation Patents,File name : Pergolide - Formulation Relevant patents for word conversion
+Nov 23, 2022 1:52:23 PM readingExcel.ReadingExcel readFile
+WARNING: java.lang.NullPointerException
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************Started of New File*****************************************************
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+INFO: File name : Pergolide - Method of treatment Relevant patents for word conversion
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+INFO: *************************************************************************************************************************************
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\Pergolide Excel Relevant formulationa and treatment files for word conversion\outDocs\Pergolide - Method of treatment Relevant patents for word conversion
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+INFO: Status true
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Started of New sheet++++++++++++++++++++++++++++++++++++++++++++++++++++
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+INFO: Sheet name : Method of use treatment Patents
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+INFO: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+INFO: Created Directory At : C:\Users\Chandrasekhar.R\Downloads\Pergolide Excel Relevant formulationa and treatment files for word conversion\outDocs\Pergolide - Method of treatment Relevant patents for word conversion\Method_of_use_treatment_Patents
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+INFO: Status true
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+WARNING: NO patent found for ==============>Error At cell 2,sheet: Method of use treatment Patents,File name : Pergolide - Method of treatment Relevant patents for word conversion
+Nov 23, 2022 1:52:24 PM readingExcel.ReadingExcel readFile
+WARNING: NO hyperlink is present for patent no :  ==============>Error At cell 2,sheet: Method of use treatment Patents,File name : Pergolide - Method of treatment Relevant patents for word conversion
